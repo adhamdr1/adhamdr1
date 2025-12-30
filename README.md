@@ -34,10 +34,11 @@
 
 <hr>
 
-<h2 align="center">🔥 Languages, Frameworks & Tools 🔥</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,python,java,js,html,css,mysql,dotnet,vscode,visualstudio,clion,git,github,postman" />
-</p>
+### 🛠️ Top Technical Skills & Tools
+
+  <p align="center">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,python,java,js,html,css,sqlserver,mysql,dotnet,vscode,visualstudio,clion,git,github,postman,swagger&perline=7" />
+  </p>
 
 <hr>
 
@@ -47,8 +48,10 @@
 </p>
 
 <hr>
-
-
+<p align="center">
+  <img src="https://github.com/adhamdr1/adhamdr1/blob/output/dist/snake.svg" alt="Snake Animation" />
+</p>
+<hr>
 <h3 align="center">🧩 Quote I Live By</h3>
 <p align="center">
   <i>"Don't Start With The Code, Start With The Idea"</i>
