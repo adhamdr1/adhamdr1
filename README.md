@@ -36,7 +36,7 @@
 
 <h2 align="center">🔥 Languages, Frameworks & Tools 🔥</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,python,java,js,html,css,sqlserver,mysql,dotnet,vscode,visualstudio,clion,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,java,js,html,css,mysql,dotnet,vscode,visualstudio,clion,git,github,postman" />
 </p>
 
 <hr>
@@ -44,48 +44,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adhamdr1&theme=react&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adhamdr1&show_icons=true&theme=react&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhamdr1&layout=compact&theme=react&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adhamdr1&theme=react-dark&hide_border=true" width="100%" />
 </p>
 
 <hr>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-
-<div align="center">
-  <a href="https://github.com/adhamdr1/Training-System">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=adhamdr1&repo=Training-System&theme=react&border_radius=10" />
-  </a>
-  <a href="https://github.com/adhamdr1/Clinic-System">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=adhamdr1&repo=Clinic-System&theme=react&border_radius=10" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/adhamdr1/Bank-System">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=adhamdr1&repo=Bank-System&theme=react&border_radius=10" />
-  </a>
-  <a href="https://github.com/adhamdr1/TodoApp">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=adhamdr1&repo=TodoApp&theme=react&border_radius=10" />
-  </a>
-</div>
-
-<br>
-
-<h4 align="center">
-  <a href="https://github.com/adhamdr1?tab=repositories">🔎 Show More 🔍</a>
-</h4>
-
-<hr>
 
 <h3 align="center">🧩 Quote I Live By</h3>
 <p align="center">
