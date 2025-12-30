@@ -48,8 +48,13 @@
 </p>
 
 <hr>
+
+<hr>
+
+<h2 align="center">🐍 Contribution Snake 🐍</h2>
+
 <p align="center">
-  <img src="https://github.com/adhamdr1/adhamdr1/blob/output/dist/snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/adhamdr1/adhamdr1/blob/output/dist/snake-dark.svg" alt="Snake eating my contribution graph" />
 </p>
 <hr>
 <h3 align="center">🧩 Quote I Live By</h3>
