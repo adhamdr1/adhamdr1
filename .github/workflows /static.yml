@@ -1,7 +1,7 @@
 name: Generate snake animation
 
 on:
-  schedule:
+  schedule: 
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
@@ -12,10 +12,10 @@ jobs:
   generate:
     permissions:
       contents: write
-    runs-on: ubuntu-latest
+    runs-on:  ubuntu-latest
     timeout-minutes: 5
 
-    steps:
+    steps: 
       - name: Checkout repository
         uses: actions/checkout@v4
 
@@ -25,7 +25,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+            dist/snake-dark.svg? palette=github-dark
             dist/snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -33,6 +33,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
+          publish_branch:  output
           publish_dir: ./dist
-          force_orphan: true
+          force_orphan:  true
