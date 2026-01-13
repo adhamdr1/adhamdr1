@@ -7,8 +7,9 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adham-mohamed74/)
-[![CodeForces](https://img.shields.io/badge/CodeForces-%23445f9d.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/adhamdr10)
+[![vjudge](https://img.shields.io/badge/vjudge-%23445f9d.svg?logo=vjudge&logoColor=white)](https://vjudge.com/profile/adhamdr74)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=d16c06)](https://leetcode.com/u/Adhamdr1/)
+[![CodeForces](https://img.shields.io/badge/CodeForces-%23445f9d.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/adhamdr10)
 
 </div>
 
