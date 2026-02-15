@@ -9,7 +9,7 @@
 
 
 <p align="center">
-    <a href="https://drive.google.com/file/d/1UV9lzmFCV92PkbDnL3lA7WfT3BaAg5bN/view" target="_blank">
+    <a href="https://drive.google.com/file/d/1qgjtUuxcqmLuVhlxGGMGaqPxxCQVK4vx/view?usp=drive_link" target="_blank">
       <img src="https://img.shields.io/badge/My CV-007520?style=flat&logo=googledrive&logoColor=white" style="height:35px; object-fit:contain;"/></a> &nbsp;
 </p>
 
