@@ -30,8 +30,8 @@
     <a href="https://codeforces.com/profile/adhamdr10">
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="50"/>
     </a>&nbsp;
-    <a href="https://vjudge.net/user/adhamdr74">
-      <img src="https://scontent.fcai19-8.fna.fbcdn.net/v/t39.30808-6/303619273_450614343776273_4312090158253002764_n.png?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=xWDJKIeWhLYQ7kNvwE-HFN-&_nc_oc=AdlI-HC6YlPqB-U_kIRhf5xy596p_wVftdFvaZuo1UcvqnWUlA_dwkfO4cYRcQv8A9E&_nc_zt=23&_nc_ht=scontent.fcai19-8.fna&_nc_gid=zH_8W4yxEoWDU9RpcdE4Gg&oh=00_AfvVEn_GRiIlkeQ4-OQZdeSap6MLE19vhTt5Rygv0H54dg&oe=6990532B" height="50"/></a>
+    <!-- <a href="https://vjudge.net/user/adhamdr74">
+      <img src="https://scontent.fcai19-8.fna.fbcdn.net/v/t39.30808-6/303619273_450614343776273_4312090158253002764_n.png?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=xWDJKIeWhLYQ7kNvwE-HFN-&_nc_oc=AdlI-HC6YlPqB-U_kIRhf5xy596p_wVftdFvaZuo1UcvqnWUlA_dwkfO4cYRcQv8A9E&_nc_zt=23&_nc_ht=scontent.fcai19-8.fna&_nc_gid=zH_8W4yxEoWDU9RpcdE4Gg&oh=00_AfvVEn_GRiIlkeQ4-OQZdeSap6MLE19vhTt5Rygv0H54dg&oe=6990532B" height="50"/></a> -->
   </p>
 
 <br>
